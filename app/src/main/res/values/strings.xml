@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="motor_name">Nama Motor</string>
+    <string name="detail">Detail</string>
+    <string name="harga">Harga</string>
+    <string name="stock">Ready Stock</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="buy">Beli Sekarang</string>
+    <string name="Item">Item</string>
+    <string name="Email">A1841889@bangkit.academy</string>
+    <string name="Nama">Tiara Permata Sari</string>
+    <string name="about_me">About Me</string>
+    <string name="home">Home</string>
+    <string name="about">About</string>
+    <string name="listview">Menu List</string>
+</resources>
