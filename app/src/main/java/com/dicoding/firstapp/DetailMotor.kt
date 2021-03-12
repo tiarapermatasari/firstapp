@@ -1,8 +1,10 @@
 package com.dicoding.firstapp
 
 import android.os.Bundle
+import android.widget.Button
 import android.widget.ImageView
 import android.widget.TextView
+import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 
 class DetailMotor : AppCompatActivity() {
@@ -23,12 +25,11 @@ class DetailMotor : AppCompatActivity() {
 
         val tvName: TextView = findViewById(R.id.tv_item_name)
         val tvDetail: TextView = findViewById(R.id.tv_item_detail)
-        val imgPhoto: ImageView = findViewById(R.id.img_item_photo)
+        val imgPhoto: ImageView = findViewById(R.id.tv_item_image)
 
         tvName.text = getNama
         tvDetail.text = getDetail
         imgPhoto.setImageResource(getPhoto)
-
     }
 }
 

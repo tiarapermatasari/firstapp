@@ -26,6 +26,7 @@ object MotorData {
         "Tampilan Supra X 125 FI punya desain sporty. Desain bodi dibuat lebih slim. Fitur teknologi mesin PGM FI dapat mengoptimalkan pemakaian bahan bakar lebih Irit" )
 
 
+
     private val motorImages = intArrayOf(R.drawable.aerox,
         R.drawable.beat,
         R.drawable.fino,

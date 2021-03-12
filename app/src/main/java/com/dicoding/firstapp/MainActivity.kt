@@ -52,7 +52,6 @@ class MainActivity : AppCompatActivity() {
                 showRecyclerList()
             }
             R.id.action_about -> {
-                title = "Menu About"
                 val moveAbout = Intent(this@MainActivity, About::class.java)
                 startActivity(moveAbout)
             }
